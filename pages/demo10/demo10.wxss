@@ -1,0 +1,15 @@
+/* pages/demo10/demo10.wxss */
+swiper {
+    border: 1px solid red;
+    height: 31.28vw;
+
+}
+
+image {
+    width: 100vw;
+}
+
+.image_box image {
+    width: 100%;
+    border: 1px solid black;
+}
